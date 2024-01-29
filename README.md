@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning about the stock market
 - 💞️ I’m looking to collaborate on finance based coding
 - 📫 How to reach me messenger pigeon
-  😄 Pronouns: ur/m0m
-- ⚡ Fun fact: if god wanted a symphony with all his creations, beetles would be the largest section. perhaps brass or woodwinds
+  😄 Pronouns: they/it/
+  - ⚡ Fun fact: if god wanted a symphony with all his creations, beetles would be the largest section. perhaps brass or woodwinds
 
 <!---
 moldy-society/moldy-society is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
